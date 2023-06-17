@@ -1,4 +1,3 @@
-# iZUMiSwapBot
+# PixelCaseBot
 
-安装iZUMi SWAP SDK
-`npm install iziswap-sdk`
+PixelCaseBot 项目批量Mint程序，导入帐号，即可直接批量Mint。
